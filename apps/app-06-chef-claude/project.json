@@ -1,0 +1,9 @@
+{
+  "name": "app-06-chef-claude",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/app-06-chef-claude/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project app-06-chef-claude --web",
+  "targets": {}
+}

@@ -1,0 +1,9 @@
+{
+  "name": "app-05-conditional-rendering",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/app-05-conditional-rendering/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project app-05-conditional-rendering --web",
+  "targets": {}
+}

@@ -1,0 +1,9 @@
+{
+  "name": "app-07-basic-forms",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/app-07-basic-forms/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project app-07-basic-forms --web",
+  "targets": {}
+}
