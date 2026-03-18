@@ -1,0 +1,9 @@
+{
+  "name": "app-18-cs-slots-machine",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/app-18-cs-slots-machine/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project app-18-cs-slots-machine --web",
+  "targets": {}
+}

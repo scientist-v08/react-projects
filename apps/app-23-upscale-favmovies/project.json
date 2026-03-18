@@ -1,0 +1,9 @@
+{
+  "name": "app-23-upscale-favmovies",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/app-23-upscale-favmovies/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project app-23-upscale-favmovies --web",
+  "targets": {}
+}

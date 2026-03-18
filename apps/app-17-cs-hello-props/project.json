@@ -1,0 +1,9 @@
+{
+  "name": "app-17-cs-hello-props",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/app-17-cs-hello-props/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project app-17-cs-hello-props --web",
+  "targets": {}
+}
