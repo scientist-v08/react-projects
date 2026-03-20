@@ -1,0 +1,9 @@
+{
+  "name": "app-19-cs-iterative-rendering",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/app-19-cs-iterative-rendering/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project app-19-cs-iterative-rendering --web",
+  "targets": {}
+}

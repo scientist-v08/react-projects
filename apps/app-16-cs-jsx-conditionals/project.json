@@ -1,0 +1,9 @@
+{
+  "name": "app-16-cs-jsx-conditionals",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/app-16-cs-jsx-conditionals/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project app-16-cs-jsx-conditionals --web",
+  "targets": {}
+}

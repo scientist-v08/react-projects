@@ -1,0 +1,9 @@
+{
+  "name": "app-20-cs-pokedex",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/app-20-cs-pokedex/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project app-20-cs-pokedex --web",
+  "targets": {}
+}
